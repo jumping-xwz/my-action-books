@@ -1,5 +1,6 @@
-# my-logging-sentences
+# my-action-books
 
-记录我看过的一些值得收下的句子。
+读书笔记或文章记录.
 
+- [《函数式编程另类指南》](functional-programming-guidelines.md)
 - [《所谓情商高，就是会说话》](sentences-eq-talk.md)
